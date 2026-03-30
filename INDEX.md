@@ -15,9 +15,9 @@
 | [Base Environment Plan](docs/platform/base-environment-plan.md) | OS, drivers, Python/conda/Poetry/uv strategy, containers, storage | 🔲 Planned |
 | [Known Risks & Constraints](docs/platform/risks-and-constraints.md) | Severity-ranked risks with mitigations | 🔲 Planned |
 | [Best Uses / Worst Uses](docs/platform/best-worst-uses.md) | What DGX Spark excels at and what to avoid | 🔲 Planned |
-| [LLM Model Catalog](docs/platform/llm-model-catalog.md) | Which models to run, sizing, quantization, multi-model serving | 🔲 Planned |
+| [LLM Model Catalog](docs/platform/llm-model-catalog.md) | Which models to run, sizing, quantization, multi-model serving | ✅ Complete |
 | [Workarounds & Creative Patterns](docs/platform/workarounds-and-creative-patterns.md) | CUDA 13 gap fixes, shims, non-standard LLM usage, adapters | 🔲 Planned |
-| [Monetization Strategy](docs/platform/monetization-strategy.md) | Cross-blueprint revenue ranking, build sequencing, build/buy | 🔲 Planned |
+| [Monetization Strategy](docs/platform/monetization-strategy.md) | Cross-blueprint revenue ranking, build sequencing, build/buy | ✅ Complete |
 | [Executive Summary](docs/platform/executive-summary.md) | 1-page platform overview | 🔲 Planned |
 | [Common Pitfalls](docs/platform/common-pitfalls.md) | Consolidated gotchas: symptom → cause → prevention → fix | 🔲 Planned |
 
@@ -103,7 +103,7 @@
 | [Phase 3 Checklist](checklists/phase-3-checklist.md) | Tracker for Phase 3 | 🔲 Planned |
 | [Phase 4 Checklist](checklists/phase-4-checklist.md) | Tracker for Phase 4 | 🔲 Planned |
 | [Phase 5 Checklist](checklists/phase-5-checklist.md) | Tracker for Phase 5 | 🔲 Planned |
-| [Project Readiness Checklist](checklists/project-readiness-checklist.md) | Universal pre-project compatibility check | 🔲 Planned |
+| [Project Readiness Checklist](checklists/project-readiness-checklist.md) | Universal pre-project compatibility check | ✅ Complete |
 | [Version Drift Monitor](checklists/version-drift-monitor.md) | Component version tracking table | 🔲 Planned |
 | Cheat Sheet: Ollama | Quick reference for Ollama commands | 🔲 Planned |
 | Cheat Sheet: Docker + DGX | Docker + GPU commands | 🔲 Planned |
