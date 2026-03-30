@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Sensitive local config and bank exports
+config/accounts.json
+data/raw/**/*.csv
+
+# Generated outputs
+output/

@@ -1,0 +1,32 @@
+{
+  "accounts": [
+    {
+      "name": "Wells Fargo Checking",
+      "account_slug": "wells_checking",
+      "institution": "wells_fargo",
+      "currency": "USD",
+      "input_glob": "data/raw/wells_fargo/*.csv",
+      "date_column": "Date",
+      "description_column": "Description",
+      "amount_column": "Amount",
+      "credit_column": null,
+      "debit_column": null,
+      "date_format": null,
+      "debit_is_negative": true
+    },
+    {
+      "name": "Amex Gold",
+      "account_slug": "amex_gold",
+      "institution": "amex",
+      "currency": "USD",
+      "input_glob": "data/raw/amex/*.csv",
+      "date_column": "Date",
+      "description_column": "Description",
+      "amount_column": "Amount",
+      "credit_column": null,
+      "debit_column": null,
+      "date_format": null,
+      "debit_is_negative": true
+    }
+  ]
+}
